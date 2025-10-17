@@ -20,7 +20,7 @@ I am a developer who focuses on building **user-friendly mobile applications**.
 
 I build modern, high-performance Android applications using **Kotlin** and **Jetpack Compose**. My expertise also extends to backend development with **C#** and **.NET Core**, allowing me to create and connect to robust server-side services.
 
-- 💬 Ask me about **Android Development, Kotlin, Jetpack Compose, C#, and .NET Core**.
+- 💬 Ask me about **Android Development, Kotlin, Jetpack Compose**.
 
 ---
 
