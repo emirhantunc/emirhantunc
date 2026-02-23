@@ -7,7 +7,7 @@
       Hi, I'm Emirhan 👋
     </h1>
   </div>
-  <a href="https://www.linkedin.com/in/emirhan-tuna-tun%C3%A7-72a20825a/">
+  <a href="https://www.linkedin.com/in/emirhan-tuna-tunc">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </td>
